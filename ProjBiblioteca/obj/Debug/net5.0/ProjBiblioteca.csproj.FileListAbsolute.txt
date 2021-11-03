@@ -1,0 +1,16 @@
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ProjBiblioteca.exe
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ProjBiblioteca.deps.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ProjBiblioteca.runtimeconfig.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ProjBiblioteca.runtimeconfig.dev.json
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ProjBiblioteca.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ref\ProjBiblioteca.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\bin\Debug\net5.0\ProjBiblioteca.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.csproj.AssemblyReference.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.AssemblyInfoInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.AssemblyInfo.cs
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.csproj.CoreCompileInputs.cache
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ref\ProjBiblioteca.dll
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.pdb
+A:\Users\Junior\Documents\Superior\4º Semestre\ED2\ProjBiblioteca\ProjBiblioteca\obj\Debug\net5.0\ProjBiblioteca.genruntimeconfig.cache
